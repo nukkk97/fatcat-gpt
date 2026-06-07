@@ -20,10 +20,6 @@ pip install fatcat-gpt
 
 ## 🚀 Quick Start Guide
 
-# FatCat Project
-
-English README — This document explains the project purpose, structure, installation, usage, and suggestions for development and testing.
-
 ---
 
 ## Brief Summary
@@ -100,12 +96,6 @@ CUDA_VISIBLE_DEVICES=0 uvicorn server:app --host 0.0.0.0 --port 8000
 ---
 
 ### 2. Send a test request (in another terminal)
-
-```bash
-python send.py --host 127.0.0.1 --port 8000 --message "Tell me a fatcat joke"
-```
-
-Or using curl:
 
 ```bash
 curl -X POST http://127.0.0.1:8000/chat \

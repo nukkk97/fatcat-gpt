@@ -6,7 +6,7 @@ payload = {
     "messages": [
         {
             "role": "user",
-            "content": "[肥宅議會] grassy_bean: 欸我昨天終於鼓起勇氣約那個學妹去看電影了\n[肥宅議會] caster97: 真假！有料欸，然後勒？\n[肥宅議會] grassy_bean: 她回我說這週末剛好要陪家人...下次一定\n[肥宅議會] phantom.3310: 幫QQ，至少她有回下次一定啦"
+            "content": ""
         }
     ],
     "temperature": 0.3 
